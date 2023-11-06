@@ -1,0 +1,60 @@
+/** imported from files given to us **/
+
+@import url("style.css");
+
+/**--- Variables and Fonts---**/
+
+:root {
+  --font-family: 'Source Sans Pro', serif;
+  --color-purple: #c271ff; /* Given in the project */
+  --color-white: #ffffff;
+  --color-dark: #252525;
+  --color-grey: #979797;
+}
+
+/**--- Base and Fonts ---**/
+
+body {
+  font-family: var(--font-family);
+}
+
+/**--- Background ---**/
+
+.homepage {
+  background-image: url('images/pic_1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center-top;
+}
+
+.purple {
+  color: var(--color-purple);
+}
+
+/**--- NavLinks ---**/
+
+li a:hover, li a:focus {
+  color: var(--color-purple) !important;
+  text-decoration: none;
+}
+
+.navbar-toggler {
+  font-size: 2.2rem;
+  top: 3rem;
+}
+
+
+/**--- Button Stuff ---**/
+
+.btn, .btn:hover, .btn:focus {
+  background-color: var(--color-purple);
+  border-color: var(--color-purple);
+}
+.btn:hover, .btn-focus {
+  opacity: 0.9;
+}
+.btn-shadow {
+  box-shadow: 0 0 10px 5px rgba(20, 21, 22, 0.813);
+}
+
+

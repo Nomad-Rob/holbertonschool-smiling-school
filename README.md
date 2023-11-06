@@ -1,5 +1,7 @@
 # Smiling School Bootstrap Project
 
+![example](images/homepage.jpg)
+
 This project involves implementing three web pages using Bootstrap, combining knowledge of HTML, CSS, accessibility, responsive design, and Bootstrap. The goal is to replicate the provided Figma designer files while keeping the custom CSS file as small as possible.
 
 ## Requirements

@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Create homepage files
+touch /home/nomad_rob/holbertonschool-smiling-school/styles.css
+touch /home/nomad_rob/holbertonschool-smiling-school/0-homepage.html
+touch /home/nomad_rob/holbertonschool-smiling-school/1-homepage.html
+touch /home/nomad_rob/holbertonschool-smiling-school/2-homepage.html
+touch /home/nomad_rob/holbertonschool-smiling-school/3-homepage.html
+touch /home/nomad_rob/holbertonschool-smiling-school/4-homepage.html
+touch /home/nomad_rob/holbertonschool-smiling-school/homepage.html
+
+# Create pricing files
+touch /home/nomad_rob/holbertonschool-smiling-school/0-pricing.html
+touch /home/nomad_rob/holbertonschool-smiling-school/1-pricing.html
+touch /home/nomad_rob/holbertonschool-smiling-school/2-pricing.html
+touch /home/nomad_rob/holbertonschool-smiling-school/3-pricing.html
+touch /home/nomad_rob/holbertonschool-smiling-school/pricing.html
+
+# Create courses files
+touch /home/nomad_rob/holbertonschool-smiling-school/0-courses.html
+touch /home/nomad_rob/holbertonschool-smiling-school/1-courses.html
+touch /home/nomad_rob/holbertonschool-smiling-school/2-courses.html
+touch /home/nomad_rob/holbertonschool-smiling-school/courses.html

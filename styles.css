@@ -151,3 +151,26 @@ li a:hover, li a:focus {
 .container-fluid {
   background-color: #071629;
 }
+
+/**--- Footer ---**/
+
+.fb-icon:before {
+  font-family: 'holberton_school-icon';
+  content: "\e908";
+  color: var(--color-white);
+  font-size: 2rem;
+}
+
+.twitter-icon:before {
+  font-family: 'holberton_school-icon';
+  content: "\e90f";
+  color: var(--color-white);
+  font-size: 2rem;
+}
+
+.insta-icon:before {
+  font-family: 'holberton_school-icon';
+  content: "\e90a";
+  color: var(--color-white);
+  font-size: 2rem;
+}

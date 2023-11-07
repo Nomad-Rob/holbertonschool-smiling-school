@@ -145,3 +145,9 @@ li a:hover, li a:focus {
   width: 5rem;
   height: 5rem;
 }
+
+/**--- Membership ---**/
+
+.container-fluid {
+  background-color: #071629;
+}

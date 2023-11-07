@@ -185,10 +185,19 @@ li a:hover, li a:focus {
   background-position: center-top;
 }
 
-/**--- Pricing Grid ---**/
+/*--- Pricing Grid ---*/
 
 .holberton_school-icon-check {
 	font-size: 28px;
 	padding-top: 1.25rem;
 }
 
+/*--- FAQ ---*/
+
+.text-black {
+  color: #000 !important; /* Using !important to override any previously set styles */
+}
+
+.p-5 {
+  font-size: 4rem;
+}
